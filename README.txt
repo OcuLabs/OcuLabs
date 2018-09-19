@@ -12,4 +12,4 @@ Usernames of contributros/collaborators:
 	AbiBasSoft18
 
 Github pages:
-	https://oculabs.github.io/OcuLabs/readme.md
+	https://oculabs.github.io/OcuLabs/README.md
