@@ -7,7 +7,7 @@ Repo url:
 Usernames of contributros/collaborators:
 	AZubaidi
 	Angelica-P 
-	KDube1 
+	KDube1 - Krishna Dube
 	leo-g-guo
 	AbiBasSoft18
 
