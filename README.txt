@@ -6,7 +6,7 @@ Repo url:
 
 Usernames of contributros/collaborators:
 	AZubaidi
-	Angelica-P 
+	Angelica-P - Angelica Paynter 300062844
 	KDube1 - Krishna Dube
 	leo-g-guo
 	AbiBasSoft18
