@@ -9,7 +9,7 @@ Usernames of contributros/collaborators:
 	Angelica-P - Angelica Paynter 300062844
 	KDube1 - Krishna Dube 300056692
 	leo-g-guo - Leo Guo 300067723
-	AbiBasSoft18 - Abinaash Baskaran 300060949
+	AbiBasSoft18 - Abinaash  Baskaran 300060949
 
 Github pages:
 	https://oculabs.github.io/README.txt
