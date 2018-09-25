@@ -8,7 +8,7 @@ Usernames of contributros/collaborators:
 	AZubaidi
 	Angelica-P - Angelica Paynter 300062844
 	KDube1 - Krishna Dube 300056692
-	leo-g-guo
+	leo-g-guo - Leo Guo 300067723
 	AbiBasSoft18 - Abinaash Baskaran 300060949
 
 Github pages:
