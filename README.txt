@@ -4,7 +4,7 @@ Repository for OcuLabs Inc.
 Repo url: 
 	https://github.com/OcuLabs/OcuLabs
 
-Usernames of contributros/collaborators:
+Usernames of contributors/collaborators:
 	AZubaidi
 	Angelica-P - Angelica Paynter 300062844
 	KDube1 - Krishna Dube 300056692
