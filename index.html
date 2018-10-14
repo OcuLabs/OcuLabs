@@ -1,28 +1,69 @@
+<!-- code by Leo Guo, 300067723-->
+
 <!doctype html>
-
 <html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/style.css?v=1.0">
+		<title>OcuLabs</title>
+		<style>
+			/* Procedure for title text layout */
+			h1 {
+    				text-align: center;
+				font-family: Helvetica, Arial, sans-serif;
+			}
 
-<head>
-<meta charset="utf-8">
+			/* Procedure for body text layout */
+			p.content {
+    				text-align: center;
+				font-family: Helvetica, Arial, sans-serif;
+			}
+		
+			/* Procedure for a one-dimensional layout model */
+			.row {
+    				display: flex;
+			}
 
-<link rel="stylesheet" href="css/style.css?v=1.0">
+			/* Procedure for two equal columns beside each other */
+			.column {
+    				flex: 50%;
+    				padding: 5px;
+			}
+		</style>
+		
 
-<title>OcuLabs</title>
+	</head>
+	
+	<body style="background-color:powderblue;">
+		<script src="js/scripts.js"></script>
+		<div class="nav-bar">
+			 <img src="Photos/eye.png" alt="Glasses" style="width:1.5%; height:1.5%;">
+    	  		 <!--https://www.shareicon.net/tag/eye?s=flat&&cat=other-->		  		 
+			 <a href="index.html">Home</a>
+	   		 <a href="Features_page.html">Features</a>
+	   		 <a href="pricing.html">Pricing</a>
+	   		 <a href="team.html">Team</a>
+		</div>
+		<br></br>
+ 
+		<h1><img src="Photos/eye2.png" alt="Main logo" style="width:50%; height:50%;"></h1>
+		<!--https://cdn.pixabay.com/photo/2016/12/18/11/04/eye-1915454_1280.png-->		
+		<h1 style="font-size:60px;">Your vision, our mission</h1>
+		
 
-</head>
-<body>
-<script src="js/scripts.js"></script>
-	<div class="nav-bar">
-	   <img src="empty" alt="OcuLabs Logo">
-	   <a href="index.html">Home</a>
-	   <a href="Features_page.html">Features</a>
-	   <a href="pricing.html">Pricing</a>
-	   <a href="team.html">Team</a>
-	</div>
-	<br></br>
+		<h1>Welcome to Oculabs</h1>
+		<p class="content"><b>A simplified eye test anytime, anywhere.<br> All for free.</b></p>
 
-<h1>Test</h1>
-<h2>Welcome to Oculabs</h2>
-</body>
+		<div class="row">
+  			<div class="column">
+    				<h1><img src="Photos/google.png" alt="get it on play store" style="width:45%"></h1>
+				<!--https://mbtskoudsalg.com/explore/get-it-on-google-play-png/-->
+  			</div>
+  			<div class="column">
+    				<h1><img src="Photos/amazon.png" alt="get it on amazon store" style="width:45%"></h1>
+  				<!--http://shadowofwar.wikia.com/wiki/File:Amazon_logo.png-->
+			</div>
+		</div>
 
+	</body>
 </html>
