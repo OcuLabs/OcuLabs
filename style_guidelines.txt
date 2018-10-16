@@ -1,0 +1,39 @@
+Style of OcuLabs Website
+------------------------
+
+Overall
+---
+Our website will obey the current design standards for advertising websites
+and service websites.
+
+Colours
+---
+#A0CCD2
+- pastel blue
+#040404
+- Rich black
+#13505B
+- midnight green
+#0C7489
+- metallic seaweed
+#119DA4
+- blue-green
+
+Iconography
+---
+Minimalist icons. We will use the icons from font awesome.
+
+Typography
+---
+We will use the Helvetica font.
+
+Links
+---
+There will be no visible hyperlinks on the site. They will all be buttons or
+images.
+
+Buttons
+---
+Our buttons will be slightly transparent. When the user hovers over or clicks 
+on the button it will become 100% opaque. The Active page in the nav bar will 
+remain opaque. The transition will be instant.
