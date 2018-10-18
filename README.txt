@@ -1,4 +1,4 @@
-# OcuLabs
+# OcuLabs GmbH
 Repository for OcuLabs Inc.
 
 Repo url: 
@@ -14,4 +14,3 @@ Usernames of contributors/collaborators:
 Github pages:
 	https://oculabs.github.io/README.txt
 	
-hi
