@@ -1,4 +1,4 @@
-# OcuLabs
+# OcuLabs GmbH
 Repository for OcuLabs Inc.
 
 Repo url: 
