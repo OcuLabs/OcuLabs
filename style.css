@@ -5,31 +5,31 @@ body{
 
 
 
-/* Leo 
+/* Coded by leo */
 /* Procedure for title text layout */
-			h1 {
-    				text-align: center;
-				font-family: Helvetica, Arial, sans-serif;
-			}
+h1 {
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+}
 
-			/* Procedure for body text layout */
-			p.content {
-    				text-align: center;
-				font-family: Helvetica, Arial, sans-serif;
-			}
+/* Procedure for body text layout */
+p.content {
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+}
 		
-			/* Procedure for a one-dimensional layout model */
-			.row {
-    				display: flex;
-			}
+/* Procedure for a one-dimensional layout model */
+.row {
+	display: flex;
+}
 
-			/* Procedure for two equal columns beside each other */
-			.column {
-    				flex: 50%;
-    				padding: 5px;
-			}
+/* Procedure for two equal columns beside each other */
+.column {
+	flex: 50%;
+    	padding: 5px;
+}
 
-*/
+
 
 
 
