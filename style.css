@@ -1,6 +1,7 @@
 body{
     background-color: #A0CCD2; /* metallic seaweed */
     font-family: "Helvetica";
+    margin: 0;
 }
 
 
@@ -37,6 +38,7 @@ p.content {
 
 
 /*Code by Angelica Paynter 300026844*/
+
 div.feature {
 	width:30%;
 	float:left;
@@ -45,7 +47,28 @@ div.explaination {
 	text-align:center;
 	
 }
+div.nav-bar a {
+	text-decoration:none;
+	padding: 30px;
+	background-color:#13505B;
+	color: #119DA4;
+	text-align: center;
+	opacity: 0.7;
+}
 
+div.nav-bar {
+	background-color:#13505B;
+	padding: 5px;
+	margin: 0px;
+	width: 100%;
+	overflow:hidden;
+	height: 5%;
+	opacity: 0.7;
+}
+div.nav-bar a:hover {
+	background-color:#13505B;
+	opacity: 1.0;
+}
 
 
 /*End of coding by Angelica*/
