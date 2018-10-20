@@ -81,10 +81,14 @@ i {
 
 
 
+<<<<<<< HEAD
 /* Abdul */
 div.pricing > p {
 	font-family: Helvetica;
 	text-align: center;
+=======
+/* Abdul*/
+>>>>>>> d99398fa6ec0aee92bfb2fe437d5fe59fab86d48
 
 }
 div.pricing > h1 {
@@ -100,6 +104,7 @@ div.pricing > img {
 	height:10%;
 }
 
+<<<<<<< HEAD
 div.otherPayments > p {
 	font-family: Helvetica;
 	text-align: center;
@@ -126,9 +131,23 @@ div.otherPayments > img {
 
 
 /* Krishna and Abinaash
+=======
+/* Krishna and Abinaash*/
+hr {
+    border-color: #A0CCD2;
+}
+
+p2{
+    font-size: 115%;
+    font-weight: bold;
+    text-align:left;
+    position: relative;
+    bottom: 134px;
+    left: 10px; 
+}
+>>>>>>> d99398fa6ec0aee92bfb2fe437d5fe59fab86d48
 
 
 
 
-*/
 
