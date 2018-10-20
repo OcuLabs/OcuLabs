@@ -40,11 +40,12 @@ p.content {
 /*Code by Angelica Paynter 300026844*/
 
 div.feature {
-	width:30%;
+	width:33%;
 	float:left;
 }
 div.explaination {
 	text-align:center;
+	padding: 5%;
 	
 }
 div.nav-bar {
@@ -71,7 +72,10 @@ div.nav-bar a.active {
 	background-color:#13505B;
 	color:#119DA4;
 }
-
+i {
+	font-size:200px;
+	color:#0C7489;
+}
 
 /*End of coding by Angelica*/
 
