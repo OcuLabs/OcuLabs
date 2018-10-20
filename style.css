@@ -91,7 +91,15 @@ hr {
 }
 
 p2{
+    font-size: 115%;
+    font-weight: bold;
     text-align:left;
-    
-    
+    position: relative;
+    bottom: 134px;
+    left: 10px; 
 }
+
+
+
+
+
