@@ -47,27 +47,29 @@ div.explaination {
 	text-align:center;
 	
 }
-div.nav-bar a {
-	text-decoration:none;
-	padding: 30px;
-	background-color:#13505B;
-	color: #119DA4;
-	text-align: center;
-	opacity: 0.7;
-}
-
 div.nav-bar {
-	background-color:#13505B;
-	padding: 5px;
+	background-color:#0C7489;
+	padding: 10px;
 	margin: 0px;
 	width: 100%;
 	overflow:hidden;
-	height: 5%;
-	opacity: 0.7;
 }
+div.nav-bar a {
+	text-decoration:none;
+	padding: 30px 15px;
+	background-color:#0C7489;
+	text-align: center;
+	color:#040404
+}
+
+
 div.nav-bar a:hover {
 	background-color:#13505B;
-	opacity: 1.0;
+	color: #119DA4;
+}
+div.nav-bar a.active {
+	background-color:#13505B;
+	color:#119DA4;
 }
 
 
