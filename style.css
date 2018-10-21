@@ -127,6 +127,11 @@ div.otherPayments > img {
 
 
 /* Krishna and Abinaash*/
+
+h2{
+    text-align: center
+}
+
 hr{
     border-color:  #A0CCD2;
 
@@ -151,6 +156,12 @@ div.Abinaash > p3{
     bottom: 130px;
 }
 
+div.Abdul > p3{
+    position: relative;
+    left:35px;
+    bottom: 130px;
+}
+
 div.Angelica > p3{
     position: relative; 
     left: 85px;
@@ -167,6 +178,35 @@ div.Krishna > p4 {
     position: relative;
     bottom:100px;
     right: 422px;
+    
+}
+
+div.Abinaash > p4 {
+    position: relative;
+    bottom:100px;
+    right: 447px;
+    
+}
+
+
+div.Abdul > p4 {
+    position: relative;
+    bottom:100px;
+    right: 534px;
+    
+}
+
+div.Angelica > p4 {
+    position: relative;
+    bottom:100px;
+    right: 472px;
+    
+}
+
+div.Leo > p4 {
+    position: relative;
+    bottom:100px;
+    right: 387px;
     
 }
 
