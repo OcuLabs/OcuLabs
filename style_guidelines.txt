@@ -4,7 +4,7 @@ Style of OcuLabs Website
 Overall
 ---
 Our website will obey the current design standards for advertising websites
-and service websites.
+and service websites. Simple but effective.
 
 Colours
 ---
@@ -34,6 +34,6 @@ images.
 
 Buttons
 ---
-Our buttons will be slightly transparent. When the user hovers over or clicks 
-on the button it will become 100% opaque. The Active page in the nav bar will 
-remain opaque. The transition will be instant.
+Our buttons will be darker than the background. When the user hovers over the
+button it will become darker. The same applies to our navigation bar. The 
+button for the active page will remain dark.
