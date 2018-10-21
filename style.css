@@ -128,6 +128,7 @@ div.otherPayments > img {
 /* Krishna and Abinaash*/
 hr{
     border-color:  #A0CCD2;
+
 }
 
 p2{
@@ -137,22 +138,35 @@ p2{
     left: 5px;
 }
 
-p3{
-    position: relative;
+div.Krishna > p3{
+    position: relative; 
     left: 110px;
     bottom: 130px;
 }
 
-p4{
+div.Abinaash > p3{
     position: relative;
     left: 65px;
     bottom: 130px;
 }
 
-p5{
-    position: relative;
+div.Angelica > p3{
+    position: relative; 
     left: 85px;
     bottom: 130px;
+}
+
+div.Leo > p3{
+    position: relative; 
+    left: 150px;
+    bottom: 130px;
+}
+
+div.Krishna > p4 {
+    position: relative;
+    bottom:100px;
+    right: 422px;
+    
 }
 
 
