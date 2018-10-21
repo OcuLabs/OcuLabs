@@ -130,3 +130,28 @@ hr{
     border-color:  #A0CCD2;
 }
 
+p2{
+    position: relative;
+    bottom: 130px;
+    font-weight: bold;
+    left: 5px;
+}
+
+p3{
+    position: relative;
+    left: 110px;
+    bottom: 130px;
+}
+
+p4{
+    position: relative;
+    left: 65px;
+    bottom: 130px;
+}
+
+p5{
+    position: relative;
+    left: 85px;
+    bottom: 130px;
+}
+
