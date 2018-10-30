@@ -67,12 +67,12 @@ div.nav-bar a {
 
 
 div.nav-bar a:hover {
-	background-color:#13505B;
-	color: #119DA4;
+
+	color: #b0e0e6;
 }
 div.nav-bar a.active {
-	background-color:#13505B;
-	color:#119DA4;
+
+	color:#b0e0e6;
 }
 i {
 	font-size:200px;
