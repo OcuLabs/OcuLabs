@@ -11,14 +11,25 @@ body{
 /* Coded by leo */
 /* Procedure for title text layout */
 h1 {
-	text-align: center;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Segoe UI, sans-serif;
+	padding-left:5em
 }
 
-/* Procedure for body text layout */
-p.content {
+h2 {
+	font-family: Segoe UI, sans-serif;
+	color: powderblue;
+}
+
+h3 {
+	font-family: Segoe UI, sans-serif;
+	color: black;
 	text-align: center;
-	font-family: Helvetica, Arial, sans-serif;
+}
+
+p.main {
+   	font-family: Segoe UI, sans-serif;
+	color: black;
+	text-align: center;
 }
 		
 /* Procedure for a one-dimensional layout model */
@@ -33,11 +44,70 @@ p.content {
 }
 
 
+/* ------------------concept bar----------------------- */
+div.bar {
+	background-color:white;
+	padding:10px 0px;
+	margin: 0px;
+	width: 100%;
+	overflow:hidden;
+}
+div.bar a {
+	text-align: center;
+	font-family: Segoe UI, sans-serif;
+	font-size:18px;
+	font-weight: 600;
+	text-decoration:none;
+	padding: 30px 15px;
+	background-color:white;
+	text-align: center;
+	color:#040404
+}
 
 
+div.bar a:hover {
+
+	color: #b0e0e6;
+}
+div.bar a.active {
+
+	color:#b0e0e6;
+}
+i {
+	font-size:200px;
+	color:#0C7489;
+}
+
+/* ------------------video----------------------- */
+.videosize {
+    height:700px;
+    width:100%;
+    overflow: hidden;
+}
 
 
+.videotext {
+    position: absolute;
+    bottom: 0;
+    color: #f1f1f1;
+    width: 80%;
+    padding: 20px;
+}
 
+/* ------------------parallax----------------------- */
+.parallax {
+    /* The image used */
+    background-image: url("Photos/quote.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 /*Code by Angelica Paynter 300026844*/
 
