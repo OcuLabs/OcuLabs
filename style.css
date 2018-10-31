@@ -9,7 +9,7 @@ body{
 
 
 /* Coded by leo */
-/* Procedure for title text layout */
+/* ------------------texts----------------------- */
 h1 {
 	font-family: Segoe UI, sans-serif;
 	padding-left:5em
@@ -18,6 +18,7 @@ h1 {
 h2 {
 	font-family: Segoe UI, sans-serif;
 	color: powderblue;
+	text-align: center;
 }
 
 h3 {
@@ -27,21 +28,19 @@ h3 {
 }
 
 p.main {
-   	font-family: Segoe UI, sans-serif;
+   	font-family: 'Open Sans Condensed', sans-serif;
 	color: black;
+	font-size: 20px;
 	text-align: center;
 }
-		
-/* Procedure for a one-dimensional layout model */
-.row {
-	display: flex;
-}
 
-/* Procedure for two equal columns beside each other */
-.column {
-	flex: 50%;
-    	padding: 5px;
-}
+p.end {
+   	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+	color: black;
+	text-align: left;
+}	
+
 
 
 /* ------------------concept bar----------------------- */
@@ -97,7 +96,7 @@ i {
 /* ------------------parallax----------------------- */
 .parallax {
     /* The image used */
-    background-image: url("Photos/quote.jpg");
+    background-image: url("Photos/phonecombined.jpg");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -107,6 +106,19 @@ i {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+
+
+/* Procedure for a one-dimensional layout model */
+.row {
+	display: flex;
+}
+
+/* Procedure for two equal columns beside each other */
+.column {
+	flex: 50%;
+    	padding: 15px;
 }
 
 /*Code by Angelica Paynter 300026844*/
