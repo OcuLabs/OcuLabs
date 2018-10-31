@@ -83,6 +83,17 @@ i {
 
 
 /* Abdul */
+
+#rotatingEye {
+	width:20%;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+    display:block;
+    touch-action:none;
+
+}
+
 div.pricing > p {
 	font-family: Helvetica;
 	text-align: center;
