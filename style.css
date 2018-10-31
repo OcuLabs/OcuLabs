@@ -1,9 +1,9 @@
-body{
-    background-color: powderblue; /* metallic seaweed */
+body {
+    background-color: powderblue;
+    /* metallic seaweed */
     font-family: "Helvetica";
     margin: 0;
     color: black
-
 }
 
 
@@ -11,76 +11,84 @@ body{
 /* Coded by leo */
 /* ------------------texts----------------------- */
 h1 {
-	font-family: Segoe UI, sans-serif;
-	padding-left:5em
+    font-family: Segoe UI, sans-serif;
+    padding-left: 6em
 }
 
 h2 {
-	font-family: Segoe UI, sans-serif;
-	color: powderblue;
-	text-align: center;
+    font-family: Segoe UI, sans-serif;
+    color: powderblue;
+    text-align: center;
 }
 
 h3 {
-	font-family: Segoe UI, sans-serif;
-	color: black;
-	text-align: center;
+    font-family: Segoe UI, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+h4 {
+    font-family: Segoe UI, sans-serif;
+    padding-left: 22em
 }
 
 p.main {
-   	font-family: 'Open Sans Condensed', sans-serif;
-	color: black;
-	font-size: 20px;
-	text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
 }
 
 p.end {
-   	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 15px;
-	color: black;
-	text-align: left;
-}	
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+}
 
 
 
 /* ------------------concept bar----------------------- */
 div.bar {
-	background-color:white;
-	padding:10px 0px;
-	margin: 0px;
-	width: 100%;
-	overflow:hidden;
+    background-color: white;
+    padding: 10px 0px;
+    margin: 0px;
+    width: 100%;
+    overflow: hidden;
 }
+
 div.bar a {
-	text-align: center;
-	font-family: Segoe UI, sans-serif;
-	font-size:18px;
-	font-weight: 600;
-	text-decoration:none;
-	padding: 30px 15px;
-	background-color:white;
-	text-align: center;
-	color:#040404
+    text-align: center;
+    font-family: Segoe UI, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 30px 15px;
+    background-color: white;
+    text-align: center;
+    color: #040404
 }
 
 
 div.bar a:hover {
 
-	color: #b0e0e6;
+    color: #b0e0e6;
 }
+
 div.bar a.active {
 
-	color:#b0e0e6;
+    color: #b0e0e6;
 }
+
 i {
-	font-size:200px;
-	color:#0C7489;
+    font-size: 200px;
+    color: #0C7489;
 }
 
 /* ------------------video----------------------- */
 .videosize {
-    height:700px;
-    width:100%;
+    height: 700px;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -99,7 +107,7 @@ i {
     background-image: url("Photos/phonecombined.jpg");
 
     /* Set a specific height */
-    min-height: 500px; 
+    min-height: 500px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -112,75 +120,80 @@ i {
 
 /* Procedure for a one-dimensional layout model */
 .row {
-	display: flex;
+    display: flex;
 }
 
 /* Procedure for two equal columns beside each other */
 .column {
-	flex: 50%;
-    	padding: 15px;
+    flex: 50%;
+    padding: 15px;
 }
 
 /* ------------------button----------------------- */
 #myBtn {
-  display: none;
-  position: fixed;
-  bottom: 50px;
-  right: 50px;
-  z-index: 93;
-  border: white;
-  outline: white;
-  background-color: powderblue;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 50%;
-  height: 70px;
-  width: 70px;
+    display: none;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    z-index: 93;
+    border: white;
+    outline: white;
+    background-color: powderblue;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
 }
 
 #myBtn:hover {
-  background-color: #555;
+    background-color: #555;
 }
 
 /*Code by Angelica Paynter 300026844*/
 
 div.feature {
-	width:33%;
-	float:left;
+    width: 33%;
+    float: left;
 }
+
 div.explaination {
-	text-align:center;
-	padding: 5%;
-	
+    text-align: center;
+    padding: 5%;
+
 }
+
 div.nav-bar {
-	background-color:#0C7489;
-	padding:10px 0px;
-	margin: 0px;
-	width: 100%;
-	overflow:hidden;
+    background-color: #0C7489;
+    padding: 10px 0px;
+    margin: 0px;
+    width: 100%;
+    overflow: hidden;
 }
+
 div.nav-bar a {
-	text-decoration:none;
-	padding: 30px 15px;
-	background-color:#0C7489;
-	text-align: center;
-	color:#040404
+    text-decoration: none;
+    padding: 30px 15px;
+    background-color: #0C7489;
+    text-align: center;
+    color: #040404
 }
 
 
 div.nav-bar a:hover {
 
-	color: #b0e0e6;
+    color: #b0e0e6;
 }
+
 div.nav-bar a.active {
 
-	color:#b0e0e6;
+    color: #b0e0e6;
 }
+
 i {
-	font-size:200px;
-	color:#0C7489;
+    font-size: 200px;
+    color: #0C7489;
 }
 
 /*End of coding by Angelica*/
@@ -189,40 +202,42 @@ i {
 
 /* Abdul */
 div.pricing > p {
-	font-family: Helvetica;
-	text-align: center;
+    font-family: Helvetica;
+    text-align: center;
 
 }
+
 div.pricing > h1 {
-	font-family: Helvetica;
-	text-align: center;
+    font-family: Helvetica;
+    text-align: center;
 
 }
+
 div.pricing > img {
-	display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-	width:10%; 
-	height:10%;
+    width: 10%;
+    height: 10%;
 }
 
 div.otherPayments > p {
-	font-family: Helvetica;
-	text-align: center;
+    font-family: Helvetica;
+    text-align: center;
 }
 
 div.otherPayments > h1 {
-	font-family: Helvetica;
-	font-size: 30px;
-	text-align: center;
+    font-family: Helvetica;
+    font-size: 30px;
+    text-align: center;
 }
 
 div.otherPayments > img {
-	display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-	width:10%; 
-	height:10%;
+    width: 10%;
+    height: 10%;
 }
 
 
@@ -233,86 +248,84 @@ div.otherPayments > img {
 
 /* Krishna and Abinaash*/
 
-h2{
+h2 {
     text-align: center
 }
 
-hr{
-    border-color:  #A0CCD2;
+hr {
+    border-color: #A0CCD2;
 
 }
 
-p2{
+p2 {
     position: relative;
     bottom: 130px;
     font-weight: bold;
     left: 5px;
 }
 
-div.Krishna > p3{
-    position: relative; 
+div.Krishna > p3 {
+    position: relative;
     left: 110px;
     bottom: 130px;
 }
 
-div.Abinaash > p3{
+div.Abinaash > p3 {
     position: relative;
     left: 65px;
     bottom: 130px;
 }
 
-div.Abdul > p3{
+div.Abdul > p3 {
     position: relative;
-    left:35px;
+    left: 35px;
     bottom: 130px;
 }
 
-div.Angelica > p3{
-    position: relative; 
+div.Angelica > p3 {
+    position: relative;
     left: 85px;
     bottom: 130px;
 }
 
-div.Leo > p3{
-    position: relative; 
+div.Leo > p3 {
+    position: relative;
     left: 150px;
     bottom: 130px;
 }
 
 div.Krishna > p4 {
     position: relative;
-    bottom:100px;
+    bottom: 100px;
     right: 422px;
-    
+
 }
 
 div.Abinaash > p4 {
     position: relative;
-    bottom:100px;
+    bottom: 100px;
     right: 447px;
-    
+
 }
 
 
 div.Abdul > p4 {
     position: relative;
-    bottom:100px;
+    bottom: 100px;
     right: 534px;
-    
+
 }
 
 div.Angelica > p4 {
     position: relative;
-    bottom:100px;
+    bottom: 100px;
     right: 472px;
-    
+
 }
 
 div.Leo > p4 {
     position: relative;
-    bottom:100px;
-    right: 387px ;
-    
+    bottom: 100px;
+    right: 387px;
+
 }
-
-
