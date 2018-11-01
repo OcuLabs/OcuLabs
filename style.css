@@ -201,18 +201,28 @@ i {
 
 
 /* Abdul */
-
 #rotatingEye {
 	width:20%;
-    position:relative;
+    position:absolute;
     display:block;
-  margin-left: 575px;
-    margin-right: auto;
-    margin-top: auto;
+  margin-left: 570px;
+    margin-top: -230px;
     touch-action:none;
+}
+#eyeLid {
+	width:38%;
+	margin-top:-270px;
+	margin-left:450px;
+	position:absolute;
+	display:inline-block;
+    /*position:relative;
+    display:block;
+  margin-left: 500px;
+    margin-right: auto;*/
+    /*padding-top:400px;
+    touch-action:none; */
 
 }
-
 
 div.pricing > p {
     font-family: Helvetica;
