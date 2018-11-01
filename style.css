@@ -201,6 +201,19 @@ i {
 
 
 /* Abdul */
+
+#rotatingEye {
+	width:20%;
+    position:relative;
+    display:block;
+  margin-left: 575px;
+    margin-right: auto;
+    margin-top: auto;
+    touch-action:none;
+
+}
+
+
 div.pricing > p {
     font-family: Helvetica;
     text-align: center;
