@@ -156,12 +156,13 @@ i {
 div.feature {
     width: 33%;
     float: left;
+    
 }
 
 div.explaination {
     text-align: center;
     padding: 5%;
-
+    
 }
 
 div.nav-bar {
