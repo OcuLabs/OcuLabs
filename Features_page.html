@@ -14,7 +14,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
 
- <body onload="setInterval(fadeInOne, 30);setInterval(fadeInTwo,30);setInterval(fadeInThree,30);">
+ <body onload="setInterval(fadeInOne, 30);setInterval(fadeInTwo,30);setInterval(fadeInThree,30);setInterval(imgFadeIn,30);">
   <div class="nav-bar">
     <img src="Photos/eye.png" alt="OcuLabs Logo" style="height:1.5%; width:1.5%;">
     <a href="index.html">Home</a>
@@ -58,7 +58,7 @@
    </div>
   </div>
 
-  <img src="Photos/glasses_collage.jpg" alt="Happy Customers" style="width:100%;">
+  <img id = "img" src="Photos/glasses_collage.jpg" alt="Happy Customers" style="width:100%;opacity:0;">
   <!--https://cdn.novavisioncare.com/wp-content/uploads/2018/01/iStock-675011558-group-wearing-glasses.jpg-->
 
 <script>
@@ -86,6 +86,13 @@ function fadeInThree() {
 	document.getElementById("para3").style.opacity = (k-40)/100;
    }
    k = k + 1;
+}
+var l = 0;
+function imgFadeIn() {
+   if (l >= 70) {
+	document.getElementById("img").style.opacity = (l-70)/100;
+   }
+   l = l + 1;
 }
 </script>
 
