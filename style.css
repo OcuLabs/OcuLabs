@@ -151,6 +151,7 @@ div.feature {
     width: 33%;
     float: left;
     padding: 10px 0px 0px;
+    font-family: Segoe UI, sans-serif;
     
 }
 
@@ -168,6 +169,7 @@ i {
 #Features_head {
 	text-align:center;
 	opacity:0;
+	font-family: Segoe UI, sans-serif;
 }
 
 div.feature:hover {
@@ -177,6 +179,7 @@ div.feature:hover {
     font-style:italic;
 }
 
+/* Old Navigation bar not used */
 div.nav-bar {
     background-color: #0C7489;
     padding: 10px 0px;
@@ -203,6 +206,7 @@ div.nav-bar a.active {
 
     color: #b0e0e6;
 }
+ /*End of Old Navigation bar */
 
 
 /*End of coding by Angelica*/
