@@ -220,7 +220,7 @@ div.nav-bar a.active {
 #pricingHeading {
     font-family: Helvetica;
     text-align: center;
-    padding-right:265px;
+    #padding-right:265px;
     font-size:45px;
 }
 
@@ -259,7 +259,7 @@ div.otherPayments > h1 {
     font-family: Helvetica;
     font-size: 30px;
     text-align: center;
-    padding-right:180px;
+    #padding-right:180px;
 }
 
 div.otherPayments > img {
