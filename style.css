@@ -156,12 +156,26 @@ i {
 div.feature {
     width: 33%;
     float: left;
+    padding: 10px 0px 0px;
+    
 }
 
 div.explaination {
     text-align: center;
     padding: 5%;
+    
+}
 
+i {
+    font-size: 200px;
+    color: #0C7489;
+}
+
+div.feature:hover {
+    background-color:#A0CCD2;
+    border-radius: 15px;
+    color:#0C7489;
+    font-style:italic;
 }
 
 div.nav-bar {
@@ -191,10 +205,6 @@ div.nav-bar a.active {
     color: #b0e0e6;
 }
 
-i {
-    font-size: 200px;
-    color: #0C7489;
-}
 
 /*End of coding by Angelica*/
 
