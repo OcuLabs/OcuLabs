@@ -205,9 +205,31 @@ div.nav-bar a.active {
 
 
 /* Abdul */
+
+#rotatingEye {
+	width:20%;
+    position:relative;
+    display:block;
+  margin-left: 575px;
+    margin-right: auto;
+    margin-top: auto;
+    touch-action:none;
+
+}
+
+#pricingHeading {
+    font-family: Helvetica;
+    text-align: center;
+    #padding-right:265px;
+    font-size:45px;
+}
+
 div.pricing > p {
     font-family: Helvetica;
     text-align: center;
+    font-size:20px;
+    letter-spacing: 0px;
+    line-height: 80%;
 
 }
 
@@ -228,12 +250,16 @@ div.pricing > img {
 div.otherPayments > p {
     font-family: Helvetica;
     text-align: center;
+    font-size:18px;
+    letter-spacing: 0px;
+    line-height: 80%;
 }
 
 div.otherPayments > h1 {
     font-family: Helvetica;
     font-size: 30px;
     text-align: center;
+    #padding-right:180px;
 }
 
 div.otherPayments > img {
