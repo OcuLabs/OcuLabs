@@ -14,7 +14,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
 
- <body onload="setInterval(fadeInOne, 30);setInterval(fadeInTwo,30);setInterval(fadeInThree,30);setInterval(imgFadeIn,30);">
+ <body onload="setInterval(fadeInOne, 30);setInterval(fadeInTwo,30);setInterval(fadeInThree,30);setInterval(imgFadeIn,30);setInterval(titleFadeIn,15);">
   <div class="nav-bar">
     <img src="Photos/eye.png" alt="OcuLabs Logo" style="height:1.5%; width:1.5%;">
     <a href="index.html">Home</a>
@@ -23,7 +23,7 @@
     <a href="team.html">Team</a>
   </div>
 
-  <h1>Features:</h1>
+  <h1 id="Features_head">Features</h1>
 
 
   <div class="feature">
@@ -93,6 +93,11 @@ function imgFadeIn() {
 	document.getElementById("img").style.opacity = (l-70)/100;
    }
    l = l + 1;
+}
+var m = 0;
+function titleFadeIn() {
+   document.getElementById("Features_head").style.opacity = m/100;
+   m = m + 1;
 }
 </script>
 
