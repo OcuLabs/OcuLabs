@@ -10,26 +10,20 @@ body {
 
 /* Coded by leo */
 /* ------------------texts----------------------- */
-h1 {
+div.videotext > h1 {
     font-family: Segoe UI, sans-serif;
-    padding-left: 6em
+    padding-left: 6.8em
 }
 
-h2 {
+div.infobox > h2 {
     font-family: Segoe UI, sans-serif;
     color: powderblue;
     text-align: center;
 }
 
-h3 {
+div.videotext > h4 {
     font-family: Segoe UI, sans-serif;
-    color: black;
-    text-align: center;
-}
-
-h4 {
-    font-family: Segoe UI, sans-serif;
-    padding-left: 22em
+    padding-left: 22.9em
 }
 
 p.main {
@@ -156,12 +150,26 @@ i {
 div.feature {
     width: 33%;
     float: left;
+    padding: 10px 0px 0px;
+    
 }
 
 div.explaination {
     text-align: center;
     padding: 5%;
+    
+}
 
+i {
+    font-size: 200px;
+    color: #0C7489;
+}
+
+div.feature:hover {
+    background-color:#A0CCD2;
+    border-radius: 15px;
+    color:#0C7489;
+    font-style:italic;
 }
 
 div.nav-bar {
@@ -191,10 +199,6 @@ div.nav-bar a.active {
     color: #b0e0e6;
 }
 
-i {
-    font-size: 200px;
-    color: #0C7489;
-}
 
 /*End of coding by Angelica*/
 
