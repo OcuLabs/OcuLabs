@@ -10,26 +10,20 @@ body {
 
 /* Coded by leo */
 /* ------------------texts----------------------- */
-h1 {
+div.videotext > h1 {
     font-family: Segoe UI, sans-serif;
-    padding-left: 6em
+    padding-left: 6.8em
 }
 
-h2 {
+div.infobox > h2 {
     font-family: Segoe UI, sans-serif;
     color: powderblue;
     text-align: center;
 }
 
-h3 {
+div.videotext > h4 {
     font-family: Segoe UI, sans-serif;
-    color: black;
-    text-align: center;
-}
-
-h4 {
-    font-family: Segoe UI, sans-serif;
-    padding-left: 22em
+    padding-left: 22.9em
 }
 
 p.main {
