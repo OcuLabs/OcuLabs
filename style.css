@@ -1,10 +1,12 @@
 body {
     background-color: powderblue;
     /* metallic seaweed */
-    font-family: "Helvetica";
     margin: 0;
-    color: black
+    color: black;
+    font-family: Segoe UI, sans-serif;
+
 }
+
 
 
 
@@ -152,6 +154,7 @@ div.feature {
     float: left;
     padding: 10px 0px 0px;
     font-family: Segoe UI, sans-serif;
+    color:#0C7489;
     
 }
 
@@ -160,26 +163,37 @@ div.explaination {
     padding: 5%;
     
 }
+div.explaination > p {
+	color:black;
+}
 
 i {
     font-size: 200px;
-    color: #0C7489;
+    /*color: #0C7489;*/
+    color:white;
 }
 
 #Features_head {
 	text-align:center;
 	opacity:0;
 	font-family: Segoe UI, sans-serif;
+	color: #0C7489;
 }
 
 div.feature:hover {
-    background-color:#A0CCD2;
+    /*background-color:#A0CCD2;*/
+    background-color:white;
     border-radius: 15px;
-    color:#0C7489;
+    /*color:#0C7489;*/
+    color:powderblue;
     font-style:italic;
 }
+div.feature:hover > i {
+	/*color: #0C7489;*/
+	color:powderblue;
+}
 
-/* Old Navigation bar not used */
+/* Old Navigation bar---not used-- */
 div.nav-bar {
     background-color: #0C7489;
     padding: 10px 0px;
