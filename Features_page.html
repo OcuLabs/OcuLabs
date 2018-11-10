@@ -16,6 +16,7 @@
 
  <body onload="setInterval(fadeInOne, 30);setInterval(fadeInTwo,30);setInterval(fadeInThree,30);setInterval(imgFadeIn,30);setInterval(titleFadeIn,15);">
   
+     
   <!-- Old nav bar code
    <div class="nav-bar">
     <img src="Photos/eye.png" alt="OcuLabs Logo" style="height:1.5%; width:1.5%;">
@@ -74,45 +75,7 @@
   <img id = "img" src="Photos/glasses_collage.jpg" alt="Happy Customers" style="width:100%;opacity:0;">
   <!--https://cdn.novavisioncare.com/wp-content/uploads/2018/01/iStock-675011558-group-wearing-glasses.jpg-->
 
-<script>
-var i = 0;
-function fadeInOne() {
-   document.getElementById("icon1").style.opacity = i/100;
-   document.getElementById("head1").style.opacity = i/100;
-   document.getElementById("para1").style.opacity = i/100;
-   i = i + 1;
-}
-var j = 0;
-function fadeInTwo() {
-   if (j >= 20) {
-	document.getElementById("icon2").style.opacity = (j-20)/100;
-	document.getElementById("head2").style.opacity = (j-20)/100;
-	document.getElementById("para2").style.opacity = (j-20)/100;
-   }
-   j = j + 1;
-}
-var k = 0;
-function fadeInThree() {
-   if (k >= 40) {
-	document.getElementById("icon3").style.opacity = (k-40)/100;
-	document.getElementById("head3").style.opacity = (k-40)/100;
-	document.getElementById("para3").style.opacity = (k-40)/100;
-   }
-   k = k + 1;
-}
-var l = 0;
-function imgFadeIn() {
-   if (l >= 70) {
-	document.getElementById("img").style.opacity = (l-70)/100;
-   }
-   l = l + 1;
-}
-var m = 0;
-function titleFadeIn() {
-   document.getElementById("Features_head").style.opacity = m/100;
-   m = m + 1;
-}
-</script>
+<script src="script.js"></script>
 
  </body>
 </html>

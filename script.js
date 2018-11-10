@@ -1,4 +1,46 @@
-
+//Coded by Angelica Paynter 300062844 for fade in of Features Page
+var i = 0;
+function fadeInOne() {
+    if (i < 101) {
+        document.getElementById("icon1").style.opacity = i/100;
+        document.getElementById("head1").style.opacity = i/100;
+        document.getElementById("para1").style.opacity = i/100;
+        i = i + 1;
+    }
+}
+var j = 0;
+function fadeInTwo() {
+   if (j >= 20 && j < 121) {
+	document.getElementById("icon2").style.opacity = (j-20)/100;
+	document.getElementById("head2").style.opacity = (j-20)/100;
+	document.getElementById("para2").style.opacity = (j-20)/100;
+   }
+   j = j + 1;
+}
+var k = 0;
+function fadeInThree() {
+   if (k >= 40 && k < 141) {
+	document.getElementById("icon3").style.opacity = (k-40)/100;
+	document.getElementById("head3").style.opacity = (k-40)/100;
+	document.getElementById("para3").style.opacity = (k-40)/100;
+   }
+   k = k + 1;
+}
+var l = 0;
+function imgFadeIn() {
+   if (l >= 70 && l < 171) {
+	document.getElementById("img").style.opacity = (l-70)/100;
+   }
+   l = l + 1;
+}
+var m = 0;
+function titleFadeIn() {
+    if (m < 101) {
+        document.getElementById("Features_head").style.opacity = m/100;
+        m = m + 1;
+    }
+}
+// end of code by Angelica
 
 // When the user scrolls down 20px from the top of the document, show the button
         window.onscroll = function() {
@@ -36,6 +78,7 @@ window.addEventListener("mousemove", function(e) {
 	var radians = Math.atan2(centerX - e.clientX , centerY- e.clientY );
 	var degree = (radians * (180 / Math.PI) * -1) + 180; 
 	rotatingEye.style.transform = "rotate("+degree+"deg)";
-});
+})
 
 //END CODE BY ABDUL
+

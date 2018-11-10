@@ -169,29 +169,25 @@ div.explaination > p {
 
 i {
     font-size: 200px;
-    /*color: #0C7489;*/
-    color:white;
+    color: #0C7489;
 }
 
 #Features_head {
 	text-align:center;
 	opacity:0;
 	font-family: Segoe UI, sans-serif;
-	color: #0C7489;
+	/*color: #0C7489;*/
 }
 
 div.feature:hover {
-    /*background-color:#A0CCD2;*/
-    background-color:white;
+    background-color:#A0CCD2;
     border-radius: 15px;
     /*color:#0C7489;*/
     color:powderblue;
     font-style:italic;
+    color:#119DA4;
 }
-div.feature:hover > i {
-	/*color: #0C7489;*/
-	color:powderblue;
-}
+
 
 /* Old Navigation bar---not used-- */
 div.nav-bar {
