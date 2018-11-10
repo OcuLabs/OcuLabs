@@ -1,10 +1,12 @@
 body {
     background-color: powderblue;
     /* metallic seaweed */
-    font-family: "Helvetica";
     margin: 0;
-    color: black
+    color: black;
+    font-family: Segoe UI, sans-serif;
+
 }
+
 
 
 
@@ -152,6 +154,7 @@ div.feature {
     float: left;
     padding: 10px 0px 0px;
     font-family: Segoe UI, sans-serif;
+    color:#0C7489;
     
 }
 
@@ -159,6 +162,9 @@ div.explaination {
     text-align: center;
     padding: 5%;
     
+}
+div.explaination > p {
+	color:black;
 }
 
 i {
@@ -170,16 +176,20 @@ i {
 	text-align:center;
 	opacity:0;
 	font-family: Segoe UI, sans-serif;
+	/*color: #0C7489;*/
 }
 
 div.feature:hover {
     background-color:#A0CCD2;
     border-radius: 15px;
-    color:#0C7489;
+    /*color:#0C7489;*/
+    color:powderblue;
     font-style:italic;
+    color:#119DA4;
 }
 
-/* Old Navigation bar not used */
+
+/* Old Navigation bar---not used-- */
 div.nav-bar {
     background-color: #0C7489;
     padding: 10px 0px;
