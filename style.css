@@ -319,36 +319,36 @@ hr {
 
 div.Krishna >p2 {
     position: relative;
-    top:50px;
-    left: 245px;
+    top:64.5px;
+    left: 260px;
     font-weight: bold;
 }
 
 div.Abinaash >p2 {
     position: relative;
-    bottom: 155px;
-    left: 558px;
+    bottom: 179px;
+    left: 675px;
     font-weight: bold;
 }
 
 div.Angelica >p2 {
     position: relative;
-    top:50px;
-    left: 25px;
+    bottom:300px;
+    left: 440px;
     font-weight: bold;
 }
 
 div.Abdul >p2 {
     position: relative;
-    bottom:358px;
-    left: 860px;
+    bottom: 420px;
+    left: 1060px;
     font-weight: bold;
 }
 
 div.Leo >p2 {
     position: relative;
-    top:50px;
-    left: 245px;
+    bottom:540px;
+    left: 975px;
     font-weight: bold;
 }
 
@@ -358,51 +358,51 @@ div.Leo >p2 {
 div.Krishna > p3 {
     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    right:70px;
-    top: 120px;
+    right:93px;
+    top: 135px;
 }
 
 div.Abinaash > p3 {
     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    left: 228px;
-    bottom: 84.5px;
+    left: 302px;
+    bottom: 110px;
 }
 
 div.Abdul > p3 {
     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    left: 495px;
-    bottom: 289px;
+    left: 655px;
+    bottom: 350px;
 }
 
 div.Angelica > p3 {
     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    left: 85px;
-    bottom: 130px;
+    left: 65px;
+    bottom: 235px;
 }
 
 div.Leo > p3 {
      font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    left: 150px;
-    bottom: 130px;
+    left: 650px;
+    bottom: 480px;
 }
 
 div.Krishna > p4 {
      font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    top: 85px;
-    right: 180px;
+    top: 95px;
+    right: 205px;
 
 }
 
 div.Abinaash > p4 {
    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    bottom: 120px;
-    left: 130px;
+    bottom: 145px;
+    left: 205px;
 
 }
 
@@ -410,24 +410,25 @@ div.Abinaash > p4 {
 div.Abdul > p4 {
      font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    bottom: 324px;
-    left: 374px;
+    bottom: 384px;
+    left: 540px;
+    
 
 }
 
 div.Angelica > p4 {
      font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    bottom: 100px;
-    right: 472px;
+    bottom: 265px;
+    left: -58px;
 
 }
 
 div.Leo > p4 {
    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    bottom: 100px;
-    right: 387px;
+    bottom: 510px;
+    right: -547px;
 
 }
 
