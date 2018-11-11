@@ -161,10 +161,13 @@ div.feature {
 div.explaination {
     text-align: center;
     padding: 5%;
+    font-size:20px;
     
 }
 div.explaination > p {
 	color:black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:20px;
 }
 
 i {
@@ -176,6 +179,7 @@ i {
 	text-align:center;
 	opacity:0;
 	font-family: Segoe UI, sans-serif;
+    font-size: 45px;
 	/*color: #0C7489;*/
 }
 
