@@ -317,66 +317,106 @@ hr {
 
 }
 
-p2 {
+div.Krishna >p2 {
     position: relative;
-    bottom: 130px;
+    top:50px;
+    left: 245px;
     font-weight: bold;
-    left: 5px;
 }
 
-div.Krishna > p3 {
+div.Abinaash >p2 {
     position: relative;
-    left: 110px;
-    bottom: 130px;
+    bottom: 155px;
+    left: 558px;
+    font-weight: bold;
+}
+
+div.Angelica >p2 {
+    position: relative;
+    top:50px;
+    left: 25px;
+    font-weight: bold;
+}
+
+div.Abdul >p2 {
+    position: relative;
+    bottom:358px;
+    left: 860px;
+    font-weight: bold;
+}
+
+div.Leo >p2 {
+    position: relative;
+    top:50px;
+    left: 245px;
+    font-weight: bold;
+}
+
+
+
+
+div.Krishna > p3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    position: relative;
+    right:70px;
+    top: 120px;
 }
 
 div.Abinaash > p3 {
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    left: 65px;
-    bottom: 130px;
+    left: 228px;
+    bottom: 84.5px;
 }
 
 div.Abdul > p3 {
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    left: 35px;
-    bottom: 130px;
+    left: 495px;
+    bottom: 289px;
 }
 
 div.Angelica > p3 {
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     left: 85px;
     bottom: 130px;
 }
 
 div.Leo > p3 {
+     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     left: 150px;
     bottom: 130px;
 }
 
 div.Krishna > p4 {
+     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    bottom: 100px;
-    right: 422px;
+    top: 85px;
+    right: 180px;
 
 }
 
 div.Abinaash > p4 {
+   font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    bottom: 100px;
-    right: 447px;
+    bottom: 120px;
+    left: 130px;
 
 }
 
 
 div.Abdul > p4 {
+     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    bottom: 100px;
-    right: 534px;
+    bottom: 324px;
+    left: 374px;
 
 }
 
 div.Angelica > p4 {
+     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     bottom: 100px;
     right: 472px;
@@ -384,8 +424,14 @@ div.Angelica > p4 {
 }
 
 div.Leo > p4 {
+   font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     bottom: 100px;
     right: 387px;
 
+}
+
+div.teamtitle > h1{
+    font-family: Segoe UI, sans-serif;
+    text-align: center;
 }
