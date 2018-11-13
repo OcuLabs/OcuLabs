@@ -1,28 +1,21 @@
-ideas:
+Ideas:
+	songza clone (music discovery)
+	mobile eye exam --> we selected this idea
+	eye recorder
+	multiple package tracker
+	recipe search engine
 
-songza clone (music discovery)
+Name: OCULABS
 
-mobile eye exam --> we selected this idea
+Product: mobile eye test/color deficiency test. can make an account and track your level of eyesight over time.
 
-eye recorder
+Audience: general population (anyone should be able to download and use this app)
 
-multiple package tracker
+How to Make Money: partner with glasses retailers (amazon, etc) to show deals for glasses and contact lenses
+possibly the app includes a discount codes after the test. Also can customize select and order a frame from
+one of our partners. 
 
-recipe search engine
-
-
-
-name: OCULABS
-
-product: mobile eye test/color deficiency test. can make an account and track your level of eyesight over time.
-
-audience: general population (anyone should be able to download and use this app)
-
-how to make money: partner with glasses retailers (amazon, etc) to show deals for glasses and contact lenses
-possibly the app includes a discount codes after the test. also can customize select and order a frame from
-one of our partners
-
-no ads
+No ads. 
 
 
 
