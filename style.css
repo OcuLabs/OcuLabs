@@ -244,30 +244,30 @@ div.nav-bar a.active {
     font-family: Helvetica;
     text-align: center;
     #padding-right:265px;
-    font-size:2.5em;
+    font-size:45px;
 }
 #freeFont {
-font-family: Helvetica;
+    font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    font-size:25px;
-    letter-spacing: -1px;
+    font-size:30px;
     font-weight:bold;
     line-height: 80%;
+    text-decoration:underline;
 
 }
 div.pricing > p {
-    font-family: Helvetica;
+    font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    font-size:25px;
-    letter-spacing: -1px;
-    font-weight:100;
+    font-size:30px;
+    font-weight:bold;
     line-height: 80%;
 
 }
 
 div.pricing > h1 {
-    font-family: Helvetica;
+    font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
+    font-weight:bold;
 
 }
 
@@ -276,19 +276,20 @@ div.pricing > img {
     margin-left: auto;
     margin-right: auto;
     height: 20%;
+    font-weight:bold;
 }
 
 div.otherPayments > p {
-    font-family: Helvetica;
+    font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    font-size:23px;
-    letter-spacing: -1px;
+    font-size:28px;
     line-height: 80%;
+    font-weight:bold;
 }
 
 div.otherPayments > h1 {
     font-family: Helvetica;
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
     #padding-right:180px;
 }
