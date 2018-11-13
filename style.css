@@ -10,7 +10,7 @@ body {
 
 
 
-/* Coded by leo */
+/* Leo */
 /* ------------------texts----------------------- */
 div.videotext > h1 {
     font-family: Segoe UI, sans-serif;
@@ -27,6 +27,7 @@ div.videotext > h4 {
     font-family: Segoe UI, sans-serif;
     padding-left: 22.9em
 }
+
 
 p.main {
     font-family: 'Open Sans Condensed', sans-serif;
@@ -147,6 +148,33 @@ i {
     background-color: #555;
 }
 
+/* ------------------alert----------------------- */
+/* The alert message box */
+.alert {
+    padding: 8px;
+    background-color: powderblue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: black;
+    margin-bottom: 5px;
+}
+
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
+}
+
 /*Code by Angelica Paynter 300026844*/
 
 div.feature {
@@ -154,20 +182,21 @@ div.feature {
     float: left;
     padding: 10px 0px 0px;
     font-family: Segoe UI, sans-serif;
-    color:#0C7489;
-    
+    color: #0C7489;
+
 }
 
 div.explaination {
     text-align: center;
     padding: 5%;
-    font-size:20px;
-    
+    font-size: 20px;
+
 }
+
 div.explaination > p {
-	color:black;
+    color: black;
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size:20px;
+    font-size: 20px;
 }
 
 i {
@@ -176,20 +205,20 @@ i {
 }
 
 #Features_head {
-	text-align:center;
-	opacity:0;
-	font-family: Segoe UI, sans-serif;
+    text-align: center;
+    opacity: 0;
+    font-family: Segoe UI, sans-serif;
     font-size: 45px;
-	/*color: #0C7489;*/
+    /*color: #0C7489;*/
 }
 
 div.feature:hover {
-    background-color:#A0CCD2;
+    background-color: #A0CCD2;
     border-radius: 15px;
     /*color:#0C7489;*/
-    color:powderblue;
-    font-style:italic;
-    color:#119DA4;
+    color: powderblue;
+    font-style: italic;
+    color: #119DA4;
 }
 
 
@@ -220,7 +249,8 @@ div.nav-bar a.active {
 
     color: #b0e0e6;
 }
- /*End of Old Navigation bar */
+
+/*End of Old Navigation bar */
 
 
 /*End of coding by Angelica*/
@@ -230,36 +260,38 @@ div.nav-bar a.active {
 /* Abdul */
 
 #rotatingEye {
-	width:20%;
-    position:relative;
-    display:block;
-  margin-left: 575px;
+    width: 20%;
+    position: relative;
+    display: block;
+    margin-left: 575px;
     margin-right: auto;
     margin-top: auto;
-    touch-action:none;
+    touch-action: none;
 
 }
 
 #pricingHeading {
     font-family: Helvetica;
     text-align: center;
-    #padding-right:265px;
-    font-size:45px;
+    #padding-right: 265px;
+    font-size: 45px;
 }
+
 #freeFont {
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    font-size:30px;
-    font-weight:bold;
+    font-size: 30px;
+    font-weight: bold;
     line-height: 80%;
-    text-decoration:underline;
+    text-decoration: underline;
 
 }
+
 div.pricing > p {
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    font-size:30px;
-    font-weight:bold;
+    font-size: 30px;
+    font-weight: bold;
     line-height: 80%;
 
 }
@@ -267,7 +299,7 @@ div.pricing > p {
 div.pricing > h1 {
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    font-weight:bold;
+    font-weight: bold;
 
 }
 
@@ -276,22 +308,22 @@ div.pricing > img {
     margin-left: auto;
     margin-right: auto;
     height: 20%;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 div.otherPayments > p {
     font-family: 'Open Sans Condensed', sans-serif;
     text-align: center;
-    font-size:28px;
+    font-size: 28px;
     line-height: 80%;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 div.otherPayments > h1 {
     font-family: Helvetica;
     font-size: 35px;
     text-align: center;
-    #padding-right:180px;
+    #padding-right: 180px;
 }
 
 div.otherPayments > img {
@@ -318,37 +350,37 @@ hr {
 
 }
 
-div.Krishna >p2 {
+div.Krishna > p2 {
     position: relative;
-    top:64.5px;
+    top: 64.5px;
     left: 260px;
     font-weight: bold;
 }
 
-div.Abinaash >p2 {
+div.Abinaash > p2 {
     position: relative;
     bottom: 179px;
     left: 675px;
     font-weight: bold;
 }
 
-div.Angelica >p2 {
+div.Angelica > p2 {
     position: relative;
-    bottom:300px;
+    bottom: 300px;
     left: 440px;
     font-weight: bold;
 }
 
-div.Abdul >p2 {
+div.Abdul > p2 {
     position: relative;
     bottom: 420px;
     left: 1060px;
     font-weight: bold;
 }
 
-div.Leo >p2 {
+div.Leo > p2 {
     position: relative;
-    bottom:540px;
+    bottom: 540px;
     left: 975px;
     font-weight: bold;
 }
@@ -359,7 +391,7 @@ div.Leo >p2 {
 div.Krishna > p3 {
     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
-    right:93px;
+    right: 93px;
     top: 135px;
 }
 
@@ -385,14 +417,14 @@ div.Angelica > p3 {
 }
 
 div.Leo > p3 {
-     font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     left: 650px;
     bottom: 480px;
 }
 
 div.Krishna > p4 {
-     font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     top: 95px;
     right: 205px;
@@ -400,7 +432,7 @@ div.Krishna > p4 {
 }
 
 div.Abinaash > p4 {
-   font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     bottom: 145px;
     left: 205px;
@@ -409,16 +441,16 @@ div.Abinaash > p4 {
 
 
 div.Abdul > p4 {
-     font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     bottom: 384px;
     left: 540px;
-    
+
 
 }
 
 div.Angelica > p4 {
-     font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     bottom: 265px;
     left: -58px;
@@ -426,14 +458,14 @@ div.Angelica > p4 {
 }
 
 div.Leo > p4 {
-   font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     bottom: 510px;
     right: -547px;
 
 }
 
-div.teamtitle > h1{
+div.teamtitle > h1 {
     font-family: Segoe UI, sans-serif;
     text-align: center;
 }
