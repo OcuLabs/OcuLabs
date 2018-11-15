@@ -1,4 +1,9 @@
 //Coded by Angelica Paynter 300062844 for fade in of Features Page
+
+//fadeInOne, fadeInTwo, and fadeInThree fade in features 1,2 and 3 respectively
+//imgFadeIn is for the image across the bottom
+//titleFadeIn fades in the title across the top
+
 var i = 0;
 function fadeInOne() {
     if (i < 101) {
@@ -11,25 +16,25 @@ function fadeInOne() {
 var j = 0;
 function fadeInTwo() {
    if (j >= 20 && j < 121) {
-	document.getElementById("icon2").style.opacity = (j-20)/100;
-	document.getElementById("head2").style.opacity = (j-20)/100;
-	document.getElementById("para2").style.opacity = (j-20)/100;
+        document.getElementById("icon2").style.opacity = (j-20)/100;
+        document.getElementById("head2").style.opacity = (j-20)/100;
+        document.getElementById("para2").style.opacity = (j-20)/100;
    }
    j = j + 1;
 }
 var k = 0;
 function fadeInThree() {
    if (k >= 40 && k < 141) {
-	document.getElementById("icon3").style.opacity = (k-40)/100;
-	document.getElementById("head3").style.opacity = (k-40)/100;
-	document.getElementById("para3").style.opacity = (k-40)/100;
+	   document.getElementById("icon3").style.opacity = (k-40)/100;
+	   document.getElementById("head3").style.opacity = (k-40)/100;
+	   document.getElementById("para3").style.opacity = (k-40)/100;
    }
    k = k + 1;
 }
 var l = 0;
 function imgFadeIn() {
    if (l >= 70 && l < 171) {
-	document.getElementById("img").style.opacity = (l-70)/100;
+	   document.getElementById("img").style.opacity = (l-70)/100;
    }
    l = l + 1;
 }
