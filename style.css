@@ -211,6 +211,7 @@ i {
     color: #0C7489;
 }
 
+/*Style for the title, ID was used so as not to affect headers on other pages*/
 #Features_head {
     text-align: center;
     opacity: 0;
