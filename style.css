@@ -267,6 +267,8 @@ div.nav-bar a.active {
 
 /* Abdul */
 
+/* using html id's to target specific elements */
+
 #rotatingEye {
     width: 20%;
     position: relative;
@@ -294,6 +296,8 @@ div.nav-bar a.active {
     text-decoration: underline;
 
 }
+
+/* using divs to isolate css code to my page only */
 
 div.pricing > p {
     font-family: 'Open Sans Condensed', sans-serif;
