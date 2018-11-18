@@ -351,7 +351,11 @@ div.otherPayments > img {
 
 
 
-/* Krishna and Abinaash*/
+/* Krishna and Abinaash
+
+Centered the h2 tag globally. Here the 'p' tags of each division are targeted and the text they point to (e.g, p4 refers to the job title). Fonts are changed but in general the text is just being moved around using the top bottom left an right functions. */
+
+
 
 h2 {
     text-align: center
