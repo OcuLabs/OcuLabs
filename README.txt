@@ -5,11 +5,11 @@ Repo url:
 	https://github.com/OcuLabs/OcuLabs
 
 Usernames of contributors/collaborators:
-	AZubaidi - Abdul Al-Zubaidi 300066757
-	Angelica-P - Angelica Paynter 300062844
-	KDube1 - Krishna Dube 300056692
-	leo-g-guo - Leo Guo 300067723
-	AbiBasSoft18 - Abinaash  Baskaran 300060949
+	AZubaidi - Abdul Al-Zubaidi 
+	Angelica-P - Angelica Paynter 
+	KDube1 - Krishna Dube 
+	leo-g-guo - Leo Guo 
+	AbiBasSoft18 - Abinaash  Baskaran 
 
 Github pages:
 	https://oculabs.github.io/README.txt
