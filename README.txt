@@ -1,5 +1,5 @@
 # OcuLabs GmbH
-Repository for OcuLabs Inc.
+Repository for OcuLabs Inc
 
 Repo url: 
 	https://github.com/OcuLabs/OcuLabs
